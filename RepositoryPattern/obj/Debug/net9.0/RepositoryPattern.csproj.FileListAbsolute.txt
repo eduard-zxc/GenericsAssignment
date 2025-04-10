@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/bin/Debug/net9.0/RepositoryPattern
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/bin/Debug/net9.0/RepositoryPattern.deps.json
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/bin/Debug/net9.0/RepositoryPattern.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/bin/Debug/net9.0/RepositoryPattern.dll
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/bin/Debug/net9.0/RepositoryPattern.pdb
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.dll
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/refint/RepositoryPattern.dll
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.pdb
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/RepositoryPattern.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/RepositryPatternAssignment/RepositoryPattern/obj/Debug/net9.0/ref/RepositoryPattern.dll
